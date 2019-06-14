@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "AzureCosmosDBConnection": "AccountEndpoint=https://dt-azflights-db.documents.azure.com:443/;AccountKey=4YPcPM2IImT8ngjpnuyPvsqq9coCC09DqI8tsCnvn156NGzt92rmmrkVufglvgGsXQwYrAPyQBk5rvP2S5vYgw==;",
+        "AzureSignalRConnectionString": "Endpoint=https://dt-azflight-sr.service.signalr.net;AccessKey=ae4FH7dWhNMl2KaEAhWe10LMIGskG+Zcuru6v2EWG5s=;Version=1.0;"
+    },
+    "Host": {
+        "LocalHttpPort": 7071,
+        "CORS": "*"
+    }
+}
